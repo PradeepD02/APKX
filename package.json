@@ -1,0 +1,19 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradeepD02/APKX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradeepD02/APKX/issues"
+  },
+  "homepage": "https://github.com/PradeepD02/APKX#readme",
+  "description": ""
+}
